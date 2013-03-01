@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['iscompatiblerealtimeengineinstalled',['isCompatibleRealtimeEngineInstalled',['../class_arena_helper.html#a7a9cd54352d052aeca4b5913c5a0ff2b',1,'ArenaHelper']]],
+  ['isdisposed',['isDisposed',['../class_arena_helper.html#af51e07799d6560689f89ec77e52bba09',1,'ArenaHelper.isDisposed()'],['../class_audio_call_connection.html#acaf043c94b12cb3c29721773adfbe834',1,'AudioCallConnection.isDisposed()'],['../class_my_profile_helper.html#a3bedcb6fa665b78df0d1f407ff40beb5',1,'MyProfileHelper.isDisposed()'],['../class_datagram_socket_connection.html#a8f80fec016a045877179a835cae335bd',1,'DatagramSocketConnection.isDisposed()'],['../interface_simple_api.html#a2a3694faa341ea00071d05167dd639f0',1,'SimpleApi.isDisposed()']]],
+  ['isheadsetrequiredforhandsfree',['isHeadsetRequiredForHandsfree',['../class_audio_call_connection.html#aa6f99104bc7b0854b27a3ad1419f7971',1,'AudioCallConnection']]],
+  ['isinitialized',['isInitialized',['../class_arena_helper.html#a9af7f75c76f589cb04f05c12ab4793ae',1,'ArenaHelper.isInitialized()'],['../class_audio_call_connection.html#a76981a9749784c40378dfffd5f962059',1,'AudioCallConnection.isInitialized()'],['../class_my_profile_helper.html#add2edea3dd15c1971d548dd6a61b1c58',1,'MyProfileHelper.isInitialized()'],['../class_datagram_socket_connection.html#a9551d3e9a776fae0dd6907bd933fa9cb',1,'DatagramSocketConnection.isInitialized()'],['../interface_simple_api.html#aa81b566b183763a6688174f5efaa4276',1,'SimpleApi.isInitialized()']]],
+  ['ismicrophonemute',['isMicrophoneMute',['../class_audio_call_connection.html#a4421e2839fa1b53a42ea49fa4a3330f0',1,'AudioCallConnection']]],
+  ['isonline',['isOnline',['../class_my_profile_helper.html#ae9a5cd465f90fa2b7d0e203bdb543577',1,'MyProfileHelper']]],
+  ['isspeakerphoneon',['isSpeakerphoneOn',['../class_audio_call_connection.html#a536c15b8c0c875b31e2e305749f6b45d',1,'AudioCallConnection']]],
+  ['isstarted',['isStarted',['../class_audio_call_connection.html#a1d16d07cc78899e4feb29cc1228302ea',1,'AudioCallConnection.isStarted()'],['../class_datagram_socket_connection.html#a88482007351ab87107abef1f1ccc261e',1,'DatagramSocketConnection.isStarted()'],['../interface_simple_connection.html#a3985e25a76a9cb5264677356e5249e66',1,'SimpleConnection.isStarted()']]]
+];

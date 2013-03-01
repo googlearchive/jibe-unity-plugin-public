@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['info_5fforbidden_5fblacklisted_5fappid',['INFO_FORBIDDEN_BLACKLISTED_APPID',['../class_jibe_session_event.html#a248a0c204cdb349f5d0a5321ca75a769',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5fblacklisted_5fmsisdn',['INFO_FORBIDDEN_BLACKLISTED_MSISDN',['../class_jibe_session_event.html#a1287f45ca4b4959b7cd3a9019a041158',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5fblacklisted_5fuser_5fa',['INFO_FORBIDDEN_BLACKLISTED_USER_A',['../class_jibe_session_event.html#af4c58160c67e0027f91b12a055e45eee',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5fblacklisted_5fuser_5fb',['INFO_FORBIDDEN_BLACKLISTED_USER_B',['../class_jibe_session_event.html#a295d851a2d874333c8a5abba972a721a',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5finvalid_5fsignature',['INFO_FORBIDDEN_INVALID_SIGNATURE',['../class_jibe_session_event.html#a39f156388d8c8748232718ab0377c4b6',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5frestricted_5fuse',['INFO_FORBIDDEN_RESTRICTED_USE',['../class_jibe_session_event.html#aa67a11d5b53c81a14501c6688b07d4dd',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5funknown',['INFO_FORBIDDEN_UNKNOWN',['../class_jibe_session_event.html#a7ce5d34222b3a78ebb5d8c3e7a04b429',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5funknown_5fappid',['INFO_FORBIDDEN_UNKNOWN_APPID',['../class_jibe_session_event.html#a5c3d8ab595cd9fb06a8d118cad8cf6bd',1,'JibeSessionEvent']]],
+  ['info_5fresource_5funavailable',['INFO_RESOURCE_UNAVAILABLE',['../class_jibe_session_event.html#ae06071f53da8fa44a07e8d4169e4d9a9',1,'JibeSessionEvent']]],
+  ['info_5fsession_5fcancelled',['INFO_SESSION_CANCELLED',['../class_jibe_session_event.html#a0087ef0277777d4b110987f20d869a0d',1,'JibeSessionEvent']]],
+  ['info_5fsession_5frejected',['INFO_SESSION_REJECTED',['../class_jibe_session_event.html#a248e1b28ad2f70dd18f74d73a37d361f',1,'JibeSessionEvent']]],
+  ['info_5fsession_5fstopped',['INFO_SESSION_STOPPED',['../class_jibe_session_event.html#a6b07f6e05def0cf95ceb8b8ed46d9569',1,'JibeSessionEvent']]],
+  ['info_5fsession_5fterminated_5fby_5fremote',['INFO_SESSION_TERMINATED_BY_REMOTE',['../class_jibe_session_event.html#ac869d7fa72e3a3e8623d54d9489f25c0',1,'JibeSessionEvent']]],
+  ['info_5fsession_5ftimeout',['INFO_SESSION_TIMEOUT',['../class_jibe_session_event.html#a983d0ffd3a1ea7378b6b4efe1493927c',1,'JibeSessionEvent']]],
+  ['info_5fuser_5fnot_5fonline',['INFO_USER_NOT_ONLINE',['../class_jibe_session_event.html#adfada93aae6075a970b731e83e149d59',1,'JibeSessionEvent']]],
+  ['info_5fuser_5funknown',['INFO_USER_UNKNOWN',['../class_jibe_session_event.html#a2aa7dbbeb168def44f4b137f7346edc4',1,'JibeSessionEvent']]],
+  ['iscompatiblerealtimeengineinstalled',['isCompatibleRealtimeEngineInstalled',['../class_arena_helper.html#a7a9cd54352d052aeca4b5913c5a0ff2b',1,'ArenaHelper']]],
+  ['isdisposed',['isDisposed',['../class_arena_helper.html#af51e07799d6560689f89ec77e52bba09',1,'ArenaHelper.isDisposed()'],['../class_audio_call_connection.html#acaf043c94b12cb3c29721773adfbe834',1,'AudioCallConnection.isDisposed()'],['../class_my_profile_helper.html#a3bedcb6fa665b78df0d1f407ff40beb5',1,'MyProfileHelper.isDisposed()'],['../class_datagram_socket_connection.html#a8f80fec016a045877179a835cae335bd',1,'DatagramSocketConnection.isDisposed()'],['../interface_simple_api.html#a2a3694faa341ea00071d05167dd639f0',1,'SimpleApi.isDisposed()']]],
+  ['isheadsetrequiredforhandsfree',['isHeadsetRequiredForHandsfree',['../class_audio_call_connection.html#aa6f99104bc7b0854b27a3ad1419f7971',1,'AudioCallConnection']]],
+  ['isinitialized',['isInitialized',['../class_arena_helper.html#a9af7f75c76f589cb04f05c12ab4793ae',1,'ArenaHelper.isInitialized()'],['../class_audio_call_connection.html#a76981a9749784c40378dfffd5f962059',1,'AudioCallConnection.isInitialized()'],['../class_my_profile_helper.html#add2edea3dd15c1971d548dd6a61b1c58',1,'MyProfileHelper.isInitialized()'],['../class_datagram_socket_connection.html#a9551d3e9a776fae0dd6907bd933fa9cb',1,'DatagramSocketConnection.isInitialized()'],['../interface_simple_api.html#aa81b566b183763a6688174f5efaa4276',1,'SimpleApi.isInitialized()']]],
+  ['ismicrophonemute',['isMicrophoneMute',['../class_audio_call_connection.html#a4421e2839fa1b53a42ea49fa4a3330f0',1,'AudioCallConnection']]],
+  ['isonline',['isOnline',['../class_my_profile_helper.html#ae9a5cd465f90fa2b7d0e203bdb543577',1,'MyProfileHelper']]],
+  ['isspeakerphoneon',['isSpeakerphoneOn',['../class_audio_call_connection.html#a536c15b8c0c875b31e2e305749f6b45d',1,'AudioCallConnection']]],
+  ['isstarted',['isStarted',['../class_audio_call_connection.html#a1d16d07cc78899e4feb29cc1228302ea',1,'AudioCallConnection.isStarted()'],['../class_datagram_socket_connection.html#a88482007351ab87107abef1f1ccc261e',1,'DatagramSocketConnection.isStarted()'],['../interface_simple_connection.html#a3985e25a76a9cb5264677356e5249e66',1,'SimpleConnection.isStarted()']]]
+];

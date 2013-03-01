@@ -1,0 +1,13 @@
+digraph "/Users/marco" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_9e51036813d6151dfecc72d5fa7c02b3 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Users" fontname="Helvetica", fontsize="10", URL="dir_9e51036813d6151dfecc72d5fa7c02b3.html"]
+  subgraph clusterdir_45face4401842654c5c391c28157dceb {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_45face4401842654c5c391c28157dceb.html"];
+    dir_45face4401842654c5c391c28157dceb [shape=plaintext label="marco"];
+    dir_1060b70fe8429e1a534823b0fcd96203 [shape=box label="UnityProjects" color="red" fillcolor="white" style="filled" URL="dir_1060b70fe8429e1a534823b0fcd96203.html"];
+  }
+  }
+}

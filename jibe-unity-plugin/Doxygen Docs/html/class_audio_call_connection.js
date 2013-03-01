@@ -1,0 +1,26 @@
+var class_audio_call_connection =
+[
+    [ "AudioCallConnection", "class_audio_call_connection.html#a8ded22eb2360190b522b5667653acc53", null ],
+    [ "canProcessIntent", "class_audio_call_connection.html#a6f3e8d08f0fd80e32bb6b50b851cd2d2", null ],
+    [ "dispose", "class_audio_call_connection.html#a414ca76de0beac9079922b532fbaa96d", null ],
+    [ "getAudioEncodingOption", "class_audio_call_connection.html#ad9b3a551e7f45de220f3f2eac520c521", null ],
+    [ "getIntent", "class_audio_call_connection.html#a9f7d77a58ad1035159c0ffe1c428adcc", null ],
+    [ "getRemoteUserDisplayName", "class_audio_call_connection.html#a54b228870a8ff2fb4b0f603914a82c32", null ],
+    [ "getRemoteUserId", "class_audio_call_connection.html#a2002a8a32a6e6aa41d4374c33ad33b15", null ],
+    [ "getSessionId", "class_audio_call_connection.html#abd5346f681b97ad0863bf0adf377984b", null ],
+    [ "getState", "class_audio_call_connection.html#a68f8f9619b4d936449d14ebe30d899fc", null ],
+    [ "isDisposed", "class_audio_call_connection.html#acaf043c94b12cb3c29721773adfbe834", null ],
+    [ "isHeadsetRequiredForHandsfree", "class_audio_call_connection.html#aa6f99104bc7b0854b27a3ad1419f7971", null ],
+    [ "isInitialized", "class_audio_call_connection.html#a76981a9749784c40378dfffd5f962059", null ],
+    [ "isMicrophoneMute", "class_audio_call_connection.html#a4421e2839fa1b53a42ea49fa4a3330f0", null ],
+    [ "isSpeakerphoneOn", "class_audio_call_connection.html#a536c15b8c0c875b31e2e305749f6b45d", null ],
+    [ "isStarted", "class_audio_call_connection.html#a1d16d07cc78899e4feb29cc1228302ea", null ],
+    [ "monitor", "class_audio_call_connection.html#afa40a147cb6ec1b66de3505decf6d3a1", null ],
+    [ "reject", "class_audio_call_connection.html#aa0e51347f0c4bfa6e9c5cd5f512ff9e6", null ],
+    [ "setAutoAccept", "class_audio_call_connection.html#a3e3938d928fa2848cc64938ded2eeba0", null ],
+    [ "setMicrophoneMute", "class_audio_call_connection.html#a7fe2c74c577410fa995e86ebd39ba7d9", null ],
+    [ "setSpeakerphoneOn", "class_audio_call_connection.html#a0f3423fc60d70522b4c6c7b9d78fe896", null ],
+    [ "start", "class_audio_call_connection.html#aa6ca350969bdaa108f1547571c483a22", null ],
+    [ "start", "class_audio_call_connection.html#a25c82a01b8979028f932c9d7c4892e95", null ],
+    [ "stop", "class_audio_call_connection.html#a97ece3a5d909144f2bf9e858e1c062f1", null ]
+];

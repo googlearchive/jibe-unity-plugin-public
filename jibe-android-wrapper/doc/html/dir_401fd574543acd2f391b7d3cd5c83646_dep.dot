@@ -1,0 +1,13 @@
+digraph "/Users/marco/UnityProjects/Android/Jibe/git/unity-plugin/jibe-android-wrapper" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_c2b7a769dd2a1f824bf104dd7a904e40 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="unity-plugin" fontname="Helvetica", fontsize="10", URL="dir_c2b7a769dd2a1f824bf104dd7a904e40.html"]
+  subgraph clusterdir_401fd574543acd2f391b7d3cd5c83646 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_401fd574543acd2f391b7d3cd5c83646.html"];
+    dir_401fd574543acd2f391b7d3cd5c83646 [shape=plaintext label="jibe-android-wrapper"];
+    dir_dc0537b10badfe85956c61d1ef9c7751 [shape=box label="src" color="red" fillcolor="white" style="filled" URL="dir_dc0537b10badfe85956c61d1ef9c7751.html"];
+  }
+  }
+}

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['info_5fforbidden_5fblacklisted_5fappid',['INFO_FORBIDDEN_BLACKLISTED_APPID',['../class_jibe_session_event.html#a248a0c204cdb349f5d0a5321ca75a769',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5fblacklisted_5fmsisdn',['INFO_FORBIDDEN_BLACKLISTED_MSISDN',['../class_jibe_session_event.html#a1287f45ca4b4959b7cd3a9019a041158',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5fblacklisted_5fuser_5fa',['INFO_FORBIDDEN_BLACKLISTED_USER_A',['../class_jibe_session_event.html#af4c58160c67e0027f91b12a055e45eee',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5fblacklisted_5fuser_5fb',['INFO_FORBIDDEN_BLACKLISTED_USER_B',['../class_jibe_session_event.html#a295d851a2d874333c8a5abba972a721a',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5finvalid_5fsignature',['INFO_FORBIDDEN_INVALID_SIGNATURE',['../class_jibe_session_event.html#a39f156388d8c8748232718ab0377c4b6',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5frestricted_5fuse',['INFO_FORBIDDEN_RESTRICTED_USE',['../class_jibe_session_event.html#aa67a11d5b53c81a14501c6688b07d4dd',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5funknown',['INFO_FORBIDDEN_UNKNOWN',['../class_jibe_session_event.html#a7ce5d34222b3a78ebb5d8c3e7a04b429',1,'JibeSessionEvent']]],
+  ['info_5fforbidden_5funknown_5fappid',['INFO_FORBIDDEN_UNKNOWN_APPID',['../class_jibe_session_event.html#a5c3d8ab595cd9fb06a8d118cad8cf6bd',1,'JibeSessionEvent']]],
+  ['info_5fresource_5funavailable',['INFO_RESOURCE_UNAVAILABLE',['../class_jibe_session_event.html#ae06071f53da8fa44a07e8d4169e4d9a9',1,'JibeSessionEvent']]],
+  ['info_5fsession_5fcancelled',['INFO_SESSION_CANCELLED',['../class_jibe_session_event.html#a0087ef0277777d4b110987f20d869a0d',1,'JibeSessionEvent']]],
+  ['info_5fsession_5frejected',['INFO_SESSION_REJECTED',['../class_jibe_session_event.html#a248e1b28ad2f70dd18f74d73a37d361f',1,'JibeSessionEvent']]],
+  ['info_5fsession_5fstopped',['INFO_SESSION_STOPPED',['../class_jibe_session_event.html#a6b07f6e05def0cf95ceb8b8ed46d9569',1,'JibeSessionEvent']]],
+  ['info_5fsession_5fterminated_5fby_5fremote',['INFO_SESSION_TERMINATED_BY_REMOTE',['../class_jibe_session_event.html#ac869d7fa72e3a3e8623d54d9489f25c0',1,'JibeSessionEvent']]],
+  ['info_5fsession_5ftimeout',['INFO_SESSION_TIMEOUT',['../class_jibe_session_event.html#a983d0ffd3a1ea7378b6b4efe1493927c',1,'JibeSessionEvent']]],
+  ['info_5fuser_5fnot_5fonline',['INFO_USER_NOT_ONLINE',['../class_jibe_session_event.html#adfada93aae6075a970b731e83e149d59',1,'JibeSessionEvent']]],
+  ['info_5fuser_5funknown',['INFO_USER_UNKNOWN',['../class_jibe_session_event.html#a2aa7dbbeb168def44f4b137f7346edc4',1,'JibeSessionEvent']]]
+];

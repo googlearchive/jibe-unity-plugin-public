@@ -1,0 +1,13 @@
+digraph "/Users/marco/UnityProjects/Android" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_1060b70fe8429e1a534823b0fcd96203 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="UnityProjects" fontname="Helvetica", fontsize="10", URL="dir_1060b70fe8429e1a534823b0fcd96203.html"]
+  subgraph clusterdir_96400c18934628813467811623fcaaa5 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_96400c18934628813467811623fcaaa5.html"];
+    dir_96400c18934628813467811623fcaaa5 [shape=plaintext label="Android"];
+    dir_7d4d781d3d50abd5e6b0ffcc0f8a0817 [shape=box label="Jibe" color="red" fillcolor="white" style="filled" URL="dir_7d4d781d3d50abd5e6b0ffcc0f8a0817.html"];
+  }
+  }
+}
